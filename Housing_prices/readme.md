@@ -1,5 +1,5 @@
 # Housing Prices Prediction
-In this 'simple linear reggression model', we are predicting housing prices in accordance with one feature "size".
+In this 'simple linear reggression model', we are building a mathematical model using python to minimize the cost/error function by using gradient descent(No external library is used).
 
 # Prerequisites
 
