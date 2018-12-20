@@ -1,4 +1,4 @@
-# Housing Prices Prediction
+# Mathematical Model for Simple linear reggression
 In this 'simple linear reggression model', we are building a mathematical model using python to minimize the cost/error function by using gradient descent(No external library is used).
 
 # Prerequisites
